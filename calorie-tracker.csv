@@ -68,8 +68,37 @@ happy;awake,159.8,lunch,cochinita pibil,20220222,,white-rice,158,4,205,0.4,0.1,0
 happy;awake,159.8,lunch,,20220222,,chocolate-bar-icecream,56,1,170,1,8,0,0,5,45,0,18,1,14,1,0,0,0,0,0
 happy;awake,159.8,lunch,cappucino,20220222,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
 happy;awake,159.8,lunch,cappucino,20220222,,1/4-cup-milk,61,5.25,25.5,0.6,0.375,0.025,0.175,3,26.75,91.5,3,0,3.25,2.05,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,1 strip,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,1 strip,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,1 strip,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+efficient;awake,159,breakfast,eggs and bacon,20220223,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
+efficient;awake,159,breakfast,eggs and bacon,20220223,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
+efficient;awake,159,lunch,eggs and bacon,20220223,,chochinita-pibil,129.5,95,182,10.5,3.85,1.05,4.6,47,348,298.5,8,0.95,4.3,13.5,0,0,0,0,0
+efficient;awake,159,lunch,eggs and bacon,20220223,,white-rice,158,4,205,0.4,0.1,0.1,0.1,0,1.6,55,45,0.6,0.1,4.3,0,0,0,0,0
+efficient;awake,159,lunch,eggs and bacon,20220223,,white-rice,158,4,205,0.4,0.1,0.1,0.1,0,1.6,55,45,0.6,0.1,4.3,0,0,0,0,0
+efficient;awake,159,lunch,eggs and bacon,20220223,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
+efficient;awake,159,lunch,eggs and bacon,20220223,,chocolate-bar-icecream,56,1,170,1,8,0,0,5,45,0,18,1,14,1,0,0,0,0,0
+efficient;awake,159,,afternoon-snack,20220223,,doritos,28,72,140,8,1,0,0,0,210,0,16,1,0,2,0,0,0,0,0
+efficient;awake,159,,afternoon-snack,20220223,,doritos,28,72,140,8,1,0,0,0,210,0,16,1,0,2,0,0,0,0,0
+efficient;awake,159,dinner,spinach banana protein shake,20220223,,1-cup-milk,244,21,102,2.4,1.5,0.1,0.7,12,107,366,12,0,13,8.2,0,0,0,0,0
+efficient;awake,159,dinner,spinach banana protein shake,20220223,,1-cup-spinach,180,4.2,41,0.5,0.1,0.2,0,0,126,839,6.8,4.3,0.8,5.3,0,0,0,0,0
+efficient;awake,159,dinner,spinach banana protein shake,20220223,,1-medium-banana,118,3.5,105,0.4,0.1,0.1,0,0,1.2,422,27,3.1,14,1.3,0,0,0,0,0
+efficient;awake,159,dinner,spinach banana protein shake,20220223,,caseine-protein,33,0,120,0.5,0,0,0,15,260,0,3,1,1,24,0,0,0,0,0
+efficient;awake,159,dinner,spinach banana protein shake,20220223,,powered-peanut-butter,16,0,70,2,0,0,0,0,125,0,0,3,3,8,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
+sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,1843.3,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,362.4,,,,,,,,,,,,,,,,
