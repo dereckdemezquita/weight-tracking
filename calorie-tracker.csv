@@ -94,11 +94,17 @@ sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,
 sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
 sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,bacon-costco,9.5,35,45,4,1.5,0,0,7.5,85,0,0,0,0,2,0,0,0,0,0
 sleepy;insomnia,159.7,breakfast,eggs and bacon,20220224,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
-sleepy;insomnia,160.7,lunch,eggs and bacon,20220224,,hot-link-sausage-costco,57,140,180,16,6,0,0,35,520,0,1,0,1,7,0,0,0,0,0
-sleepy;insomnia,161.7,lunch,eggs and bacon,20220224,,hot-link-sausage-costco,57,140,180,16,6,0,0,35,520,0,1,0,1,7,0,0,0,0,0
-sleepy;insomnia,162.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
-sleepy;insomnia,163.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
-sleepy;insomnia,164.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,lunch,eggs and bacon,20220224,,hot-link-sausage-costco,57,140,180,16,6,0,0,35,520,0,1,0,1,7,0,0,0,0,0
+sleepy;insomnia,159.7,lunch,eggs and bacon,20220224,,hot-link-sausage-costco,57,140,180,16,6,0,0,35,520,0,1,0,1,7,0,0,0,0,0
+sleepy;insomnia,159.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,lunch,eggs and bacon,20220224,,fried-egg,46,61,90,6.8,2,1.5,2.8,184,95,70,0.4,0,0.2,6.3,0,0,0,0,0
+sleepy;insomnia,159.7,dinner,arbys,20220224,,arbys-3-chicken-tenders,131,150,360,17,2.5,0,0,45,950,0,28,2,0,23,0,0,0,0,0
+sleepy;insomnia,159.7,dinner,arbys,20220224,,arbys-curly-fries,201,310,650,35,5,0,0,0,1480,0,77,7,0,8,0,0,0,0,0
+sleepy;insomnia,159.7,dinner,arbys,20220224,,arbys-smokehouse-brisket copy,203,310,600,35,12,0,0,100,1240,0,42,2,7,33,1,0,0,0,0
+sleepy;insomnia,159.7,dinner,arbys,20220224,,fanta-orange,496,0,238,0,0,0,0,0,60,9.9,61,0,0,0,0,0,0,0,0
+angry;tired;insomnia,161,breakfast,,20220225,,black-coffee,237,0,2.4,0.1,0,0,0,0,4.7,116,0,0,0,0.3,0,0,5,0,94.8
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,992.4,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,2840.4,,,,,,,,,,,,,,,,
