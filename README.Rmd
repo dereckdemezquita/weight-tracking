@@ -1,0 +1,66 @@
+---
+output: github_document
+knit: (function(inputFile, encoding) { 
+        rmarkdown::render(inputFile,
+                        encoding=encoding, 
+                        output_file=file.path(dirname(inputFile), "README.md")) }) # , "../dist"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# weight-tracking
+
+My personal weight tracker.
+
+Most of the food data is taken from: https://www.nutritionix.com/food/black-coffee
+
+```{r}
+dataset <- data.table::fread("./calorie-tracker.csv")
+
+dataset <- na.omit(dataset, cols = "date")
+```
+
+```{r}
+dataset[, date := as.Date(as.character(date), format = "%Y%m%d")]
+```
+
+
+# Calories per day
+
+```{r bar-calories-per-day}
+dataset[, .(calories_per_day = sum(Calories)), by = date] |>
+	ggplot2::ggplot(ggplot2::aes(x = date, y = calories_per_day, fill = calories_per_day)) +
+	ggplot2::geom_bar(stat = "identity", alpha = 0.95) +
+	ggplot2::scale_x_date(date_breaks = "1 day", date_labels = "%Y-%m-%d")
+```
+
+# Calories to weight relation
+
+```{r line-calories-per-day-weight}
+dataset[, .(calories = sum(Calories), weight = unique(weight)), by = date] |>
+	data.table::melt(id.vars = "date") |>
+	ggplot2::ggplot(ggplot2::aes(x = date, y = value, group = variable, colour = variable)) +
+	ggplot2::geom_line(size = 1.5, alpha = 0.75) +
+	ggplot2::scale_x_date(date_breaks = "1 day", date_labels = "%Y-%m-%d") +
+	ggplot2::facet_grid(variable ~ ., scales = "free") +
+	ggplot2::theme(legend.position = "bottom")
+```
+
+
+```{r eval=FALSE}
+cols <- colnames(dataset[, `Serving Size (g)`:`Caffeine (mg)`])
+
+test <- dataset
+
+test[
+	,
+	eval(cols) := lapply(.SD, function(x) { sum(x) }),
+	.SDcols = cols,
+	by = date
+]
+
+x[ , eval(mynames) := list(mean(b) * 4, sum(b) * 3), by = a][]
+```
+
